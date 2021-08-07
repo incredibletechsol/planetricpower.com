@@ -96,7 +96,7 @@
 									</div>
 									<h5 class="font-black">ADDRESS</h5>
 									<p>
-										MNO 3076 (NearThe Lexicon International School ) <br>Pune -Nagar Road, A/P Wagholi, Tal Havel ,<br> Dist-Pune, Maharashtra 412207
+										MNO 3076 Jadhav Vasti,<br> Near Goodwill Enterprises,<br>Opposite Nevaskar Petrol Pump <br>Pune -Nagar Road, A/P Wagholi, Tal Havel ,<br> Dist-Pune, Maharashtra 412207
 									</p>
 								</div>
 							</div>
@@ -135,7 +135,7 @@
 				<div class="container-fluid">
     <div class="row-fluid">
         <div class="col-md-12">
-        	 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30255.974308042325!2d73.9621149861732!3d18.57418352260646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3819fdef877%3A0xd4193e985f354be0!2sWagholi%2C+Pune%2C+Maharashtra+412207!5e0!3m2!1sen!2sin!4v1526282559854" width="1320" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+        	 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.5685275699666!2d73.99740821489387!3d18.593481287366497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTjCsDM1JzM2LjUiTiA3M8KwNTknNTguNiJF!5e0!3m2!1sen!2sin!4v1628318885339!5m2!1sen!2sin" width="1320" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
     	</div>
     	
    

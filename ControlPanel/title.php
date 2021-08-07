@@ -2,7 +2,7 @@
 $pageName = basename($_SERVER['PHP_SELF']);
 if($pageName == "index.php")
 	{
-	echo "Admin : Precision Gauges and Tools";
+	echo "Admin : Planetric Power LLP";
 	}
 if($pageName == "enquiries.php")
 	{

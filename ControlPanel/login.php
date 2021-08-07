@@ -21,7 +21,7 @@ if (isset($_POST['submit']))
 				date_default_timezone_set('Asia/Kolkata'); 
 				$dateandtime=date('D, d M Y H:i:s T');
 					
-				header('location:enquiries.php');
+				header('location:gallery.php');
 				}
 			else
 				{

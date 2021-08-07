@@ -54,7 +54,11 @@ color: rgb(175, 175, 175) !important;
 							<div class="footer-widget">
 								<h5 class="title text-uppercase">CONNECT</h5>
 								<ul class="list-address list-unstyled">
-										<li><span>Address: </span> MNO 3076 (NearThe Lexicon International School )Pune -Nagar Road, A/P Wagholi, Tal Havel , Dist-Pune, Maharashtra 412207</li>
+										<li><span>Address: </span>
+										<p>
+										MNO 3076 Jadhav Vasti,<br> Near Goodwill Enterprises,<br>Opposite Nevaskar Petrol Pump <br>Pune -Nagar Road, A/P Wagholi, Tal Havel ,<br> Dist-Pune, Maharashtra 412207
+									</p>
+										</li>
 
 								<!-- <li><span>Timing: </span> Daily 10AM - 7PM. </li> -->
 									
@@ -75,15 +79,17 @@ color: rgb(175, 175, 175) !important;
 			</div>
 		</footer>
 		<!--Start of Tawk.to Script-->
+<!--Start of Tawk.to Script-->
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
 var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
 s1.async=true;
-s1.src='https://embed.tawk.to/608561cd5eb20e09cf3663af/1f44gc3li';
+s1.src='https://embed.tawk.to/60dab81665b7290ac6386dc5/1f9b5u72i';
 s1.charset='UTF-8';
 s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
+<!--End of Tawk.to Script-->
 <!--End of Tawk.to Script-->
