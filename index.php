@@ -122,7 +122,8 @@
 							data-responsive_offset="on" 
 
 
-							style="z-index: 6; white-space: nowrap; font-weight: 700; letter-spacing: 1.25px;">Manufacturer of Current,Potential,Reactor Transformer
+							style="z-index: 6; white-space: nowrap; font-weight: 700; letter-spacing: 1.25px;">
+							<br>Manufacturer of Current,Potential,<br>Reactor Transformer
 						</div>
 
 
@@ -147,7 +148,7 @@
 							data-responsive_offset="on" 
 
 
-							style="z-index: 6; white-space: nowrap; font-weight: 700; letter-spacing: 1.25px;">Potential Transformer,Reactor and Transformer
+							style="z-index: 6; white-space: nowrap; font-weight: 700; letter-spacing: 1.25px;">
 						</div>
 
 
